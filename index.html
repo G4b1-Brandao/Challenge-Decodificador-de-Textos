@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador de Textos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark">
+    <header class="header">
+        <div class="header-content">
+            <img class="logo" src="assets/logo-alura.png" alt="Logo Alura">
+            <button class="btn-theme" onclick="toggleTheme()"><img src="assets/moon-color.png" alt="Ícone de lua"></button>
+        </div>
+    </header>
+    <div class="container">
+        <div class="container__informacoes">
+            <h1>Decodificador de Textos</h1>
+            <textarea id="inputText" class="container__input" placeholder="Digite seu texto aqui..."></textarea>
+            <p class="alerta">Apenas letras minúsculas e sem acentos.</p>
+            <div class="container__botoes">
+                <button class="container__botao" onclick="criptografar()">Criptografar</button>
+                <button class="container__botao" onclick="descriptografar()">Descriptografar</button>
+            </div>
+            <textarea id="outputText" class="container__input" readonly placeholder="Resultado..."></textarea>
+            <button class="container__botao container__botao--copiar" onclick="copiarTexto()">Copiar</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
