@@ -1,7 +1,7 @@
 # Decodificador de Textos
 
 Este é um projeto simples de um decodificador de textos que permite criptografar e descriptografar mensagens usando uma chave específica. O projeto é construído com HTML, CSS e JavaScript.
-
+Link do projeto: https://g4b1-brandao.github.io/Challenge-Decodificador-de-Textos/
 ## Funcionalidades
 
 - **Criptografar**: Transforma um texto normal em um texto criptografado.
@@ -87,3 +87,5 @@ Se você deseja contribuir com o projeto, sinta-se à vontade para fazer um fork
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+![image](https://github.com/user-attachments/assets/e7be1da4-afa8-4aa8-b6ee-57fcdade0de0)
