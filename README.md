@@ -84,8 +84,4 @@ body.light {
 
 Se você deseja contribuir com o projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request com suas alterações. Todas as contribuições são bem-vindas!
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ![image](https://github.com/user-attachments/assets/e7be1da4-afa8-4aa8-b6ee-57fcdade0de0)
